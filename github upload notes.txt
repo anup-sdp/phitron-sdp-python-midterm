@@ -1,0 +1,13 @@
+github upload:
+create folder in github and open cmd in folder location, give commands:
+git init
+git status
+git add .
+git status
+git commit -m "initial commit"
+git status
+github: create repo
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/anup-sdp/phitron-sdp-python-midterm.git
+git push -u origin main
